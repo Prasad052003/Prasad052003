@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development, cloud computing, and open-source projects.
 - 🌱 I’m currently learning advanced React and Node.js, as well as exploring GraphQL.
 - 💞️ I’m looking to collaborate on innovative web applications, open-source projects, or anything involving full stack development.
-- 📫 You can reach me at [your-email@example.com](mailto:prasad770@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 📫 You can reach me at [prasad7770@gmail.com](mailto:prasad770@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and often find inspiration for my projects in nature!
 
